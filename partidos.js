@@ -382,6 +382,18 @@ const PARTIDOS = [
     "hora": "22:00"
   },
   {
+    "id": 36,
+    "fecha": "2026-06-20",
+    "grupo": "Grupo D",
+    "equipo1": "Turquía",
+    "equipo2": "Paraguay",
+    "senal": "Dsports",
+    "canales": [
+      "Dsports"
+    ],
+    "hora": "00:00"
+  },
+  {
     "id": 32,
     "fecha": "2026-06-20",
     "grupo": "Grupo F",
@@ -429,18 +441,6 @@ const PARTIDOS = [
       "Dsports"
     ],
     "hora": "21:00"
-  },
-  {
-    "id": 36,
-    "fecha": "2026-06-20",
-    "grupo": "Grupo D",
-    "equipo1": "Turquía",
-    "equipo2": "Paraguay",
-    "senal": "Dsports",
-    "canales": [
-      "Dsports"
-    ],
-    "hora": "00:00"
   },
   {
     "id": 37,
@@ -493,6 +493,18 @@ const PARTIDOS = [
     "hora": "22:00"
   },
   {
+    "id": 44,
+    "fecha": "2026-06-22",
+    "grupo": "Grupo J",
+    "equipo1": "Jordania",
+    "equipo2": "Argelia",
+    "senal": "Dsports",
+    "canales": [
+      "Dsports"
+    ],
+    "hora": "00:00"
+  },
+  {
     "id": 41,
     "fecha": "2026-06-22",
     "grupo": "Grupo E",
@@ -528,18 +540,6 @@ const PARTIDOS = [
       "TyC Sports"
     ],
     "hora": "21:00"
-  },
-  {
-    "id": 44,
-    "fecha": "2026-06-22",
-    "grupo": "Grupo J",
-    "equipo1": "Jordania",
-    "equipo2": "Argelia",
-    "senal": "Dsports",
-    "canales": [
-      "Dsports"
-    ],
-    "hora": "00:00"
   },
   {
     "id": 45,
@@ -738,6 +738,30 @@ const PARTIDOS = [
     "hora": "23:00"
   },
   {
+    "id": 65,
+    "fecha": "2026-06-26",
+    "grupo": "Grupo G",
+    "equipo1": "Egipto",
+    "equipo2": "Irán",
+    "senal": "TyC Sports",
+    "canales": [
+      "TyC Sports"
+    ],
+    "hora": "00:00"
+  },
+  {
+    "id": 66,
+    "fecha": "2026-06-26",
+    "grupo": "Grupo G",
+    "equipo1": "Nueva Zelanda",
+    "equipo2": "Bélgica",
+    "senal": "Dsports",
+    "canales": [
+      "Dsports"
+    ],
+    "hora": "00:00"
+  },
+  {
     "id": 61,
     "fecha": "2026-06-26",
     "grupo": "Grupo I",
@@ -786,30 +810,6 @@ const PARTIDOS = [
       "Telefe"
     ],
     "hora": "21:00"
-  },
-  {
-    "id": 65,
-    "fecha": "2026-06-26",
-    "grupo": "Grupo G",
-    "equipo1": "Egipto",
-    "equipo2": "Irán",
-    "senal": "TyC Sports",
-    "canales": [
-      "TyC Sports"
-    ],
-    "hora": "00:00"
-  },
-  {
-    "id": 66,
-    "fecha": "2026-06-26",
-    "grupo": "Grupo G",
-    "equipo1": "Nueva Zelanda",
-    "equipo2": "Bélgica",
-    "senal": "Dsports",
-    "canales": [
-      "Dsports"
-    ],
-    "hora": "00:00"
   },
   {
     "id": 67,
