@@ -216,7 +216,9 @@ function fillDateSelect() {
 }
 
 function renderDate(date) {
-  const matches = PARTIDOS.filter((partido) => partido.fecha === date);
+  const matches = PARTIDOS
+  .filter((partido) => partido.fecha === date)
+  .sort((a, b) => a.hora.localeCompare(b.hora));
 
   dateSelect.value = date;
   matchesContainer.innerHTML = "";
