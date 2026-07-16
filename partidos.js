@@ -1,21 +1,21 @@
 const PARTIDOS = [
   {
-    "id": 101,
-    "fecha": "2026-07-14",
-    "grupo": "Semifinal",
+    "id": 103,
+    "fecha": "2026-07-18",
+    "grupo": "Tercer puesto",
     "equipo1": "Francia",
-    "equipo2": "España",
+    "equipo2": "Inglaterra",
     "senal": "Dsports",
     "canales": [
       "Dsports"
     ],
-    "hora": "16:00"
+    "hora": "18:00"
   },
   {
-    "id": 102,
-    "fecha": "2026-07-15",
-    "grupo": "Semifinal",
-    "equipo1": "Inglaterra",
+    "id": 104,
+    "fecha": "2026-07-19",
+    "grupo": "Final",
+    "equipo1": "España",
     "equipo2": "Argentina",
     "senal": "TyC Sports",
     "canales": [
